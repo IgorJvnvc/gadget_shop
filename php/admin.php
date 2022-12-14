@@ -259,7 +259,7 @@ $users = $rez2->fetchAll();
 			</div>
 		</div>
 		<p class="footnote">
-			&copy; ALEKSA PREDRAGOVIC
+			&copy; Igor Jovanovic 127/18
 		</p>
 	</div>
 	<script type = "text/javascript" src = "../js/admin.js"></script>	

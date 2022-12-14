@@ -1,8 +1,8 @@
 <?php
-$host = "localhost";
-$database = "id13049469gadgets_shop";
-$user = "Igor";
-$pass = "igor1998";
+$host = "sql210.epizy.com";
+$database = "epiz_31662114_gadget";
+$user = "epiz_31662114";
+$pass = "MZzjuGeYrjMZ";
 
 try
 {
